@@ -1,4 +1,4 @@
-# Create a Basic JavaScript Object - freeCodeCamp Challenge
+# Create a Basic JavaScript Object - freeCodeCamp Challenge 💜
 
 ## Object Oriented Programming (OOP) Chapter <br> (JavaScript Algorithms and Data Structures Certification)
 
